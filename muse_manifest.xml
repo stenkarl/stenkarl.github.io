@@ -1,0 +1,39 @@
+<manifest alg="2" build="751" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="114823713"/>
+    <file name="master_a-master.css" crc="4091799891" ref="index:blank:news:games"/>
+    <file name="index.css" crc="331469364" ref="index"/>
+    <file name="blank.css" crc="4148003305" ref="blank"/>
+    <file name="news.css" crc="446807805" ref="news"/>
+    <file name="games.css" crc="185656405" ref="games"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:games:news:blank"/>
+    <file name="museutils.js" crc="3885830161" ref="index:games:news:blank"/>
+    <file name="pie.js" crc="4147615982" ref="index:games:news:blank"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:games:news:blank"/>
+    <file name="jquery.tobrowserwidth.js" crc="4262060562" ref="index:games:news:blank"/>
+    <file name="webpro.js" crc="4369767" ref="index:news"/>
+    <file name="musewpslideshow.js" crc="83045620" ref="index:news"/>
+    <file name="jquery.museoverlay.js" crc="3925244142" ref="index:news"/>
+    <file name="touchswipe.js" crc="261777990" ref="index:news"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:games:news:blank"/>
+  </folder>
+  <folder name="images">
+    <file name="gradienttile.png" crc="124416333" ref="index:games:news:blank"/>
+    <file name="homesteadgaming-u401.png" crc="4176488194" ref="index:games:news:blank"/>
+    <file name="homesteadgamingcabin.png" crc="3920770198" ref="index:games:news:blank"/>
+    <file name="titlescreennoglows.jpg" crc="4143885186" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="gatorchomptitle.png" crc="314230783" ref="index"/>
+    <file name="background.png" crc="311497692" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="smallflower.jpg" crc="436228068" ref="news"/>
+    <file name="bigflower.jpg" crc="3914371841" ref="news"/>
+    <file name="leaves.jpg" crc="4219796433" ref="news"/>
+  </folder>
+  <file name="index.html" crc="4102395831" mt="1384302068077"/>
+  <file name="games.html" crc="519823126" mt="1384302068080"/>
+  <file name="news.html" crc="12850210" mt="1384302068083"/>
+  <file name="blank.html" crc="75407480" mt="1384302068085"/>
+</manifest>

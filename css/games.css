@@ -1,0 +1,213 @@
+.html
+{
+	background: #7F7F7F url("../images/gradienttile.png") repeat-x left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 173px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 378px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u87
+{
+	z-index: 2;
+	width: 1160px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: -100px;
+}
+
+#u87_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 962px;
+	left: -99px;
+}
+
+#u87_position_content
+{
+	margin-top: 9px;
+	margin-bottom: -6px;
+}
+
+#menuu196
+{
+	z-index: 5;
+	width: 514px;
+	left: 320px;
+}
+
+#u412
+{
+	width: 127px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u415-4
+{
+	width: 127px;
+	min-height: 12px;
+	margin-right: -10000px;
+}
+
+#u413:hover #u415-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u413:active #u415-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u419
+{
+	width: 127px;
+	min-height: 19px;
+	margin-right: -10000px;
+	left: 129px;
+}
+
+#u421-4
+{
+	width: 127px;
+	min-height: 12px;
+	margin-right: -10000px;
+}
+
+#u413.MuseMenuActive #u415-4,#u420:hover #u421-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u420:active #u421-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u509
+{
+	width: 127px;
+	min-height: 19px;
+	margin-right: -10000px;
+	left: 258px;
+}
+
+#u513-4
+{
+	width: 127px;
+	min-height: 12px;
+	margin-right: -10000px;
+}
+
+#u420.MuseMenuActive #u421-4,#u512:hover #u513-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u512:active #u513-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u433
+{
+	width: 127px;
+	min-height: 19px;
+	margin-right: -10000px;
+	left: 387px;
+}
+
+#u413,#u420,#u512,#u434
+{
+	width: 127px;
+}
+
+#u437-4
+{
+	width: 127px;
+	min-height: 12px;
+	margin-right: -10000px;
+}
+
+#u512.MuseMenuActive #u513-4,#u434:hover #u437-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u434:active #u437-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u434.MuseMenuActive #u437-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u401
+{
+	z-index: 3;
+	left: 336px;
+	margin-top: 3px;
+}
+
+#u487
+{
+	z-index: 30;
+	width: 129px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 414px;
+}
+
+body
+{
+	padding-top: 18px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
