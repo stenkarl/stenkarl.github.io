@@ -1,12 +1,18 @@
 #u87
 {
-	-pie-box-shadow: 0px 0px 30px #323232;
-	-moz-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
-	-webkit-box-shadow: 0px 0px 30px -1px rgba(0, 0, 0, 0.8);
-	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
 	border-style: none;
 	border-color: transparent;
 	background-color: #212121;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: relative;
+}
+
+#u401
+{
+	display: block;
+	vertical-align: top;
 	position: relative;
 }
 
@@ -17,8 +23,10 @@
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
+	letter-spacing: 1px;
 	font-size: 10px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: normal;
 	position: relative;
 }
 
@@ -40,9 +48,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	letter-spacing: 1px;
 	font-size: 10px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 
@@ -64,9 +73,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	letter-spacing: 1px;
 	font-size: 10px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 
@@ -88,9 +98,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	letter-spacing: 1px;
 	font-size: 10px;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 
@@ -123,15 +134,18 @@
 	cursor: pointer;
 }
 
-#u401
+#menuu196,#u412,#u413,#u419,#u420,#u509,#u512,#u433,#u434,#u487
 {
-	display: block;
-	vertical-align: top;
 	position: relative;
 }
 
-#u87_align_to_page,#menuu196,#u412,#u413,#u419,#u420,#u509,#u512,#u433,#u434,#u487
+#u827-6
 {
+	text-align: center;
+	font-size: 13px;
+	color: #7F7F7F;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
 	position: relative;
 }
 

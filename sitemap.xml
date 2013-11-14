@@ -2,91 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://homesteadgaming.com/images/gradienttile.png</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/images/homesteadgaming-u401.png</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/images/homesteadgamingcabin.png</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/images/titlescreennoglows.jpg</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/images/blank.gif</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/images/gatorchomptitle.png</loc>
-    <lastmod>2013-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://homesteadgaming.com/images/background.png</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/images/loading.gif</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://homesteadgaming.com/images/smallflower.jpg</loc>
-    <lastmod>2013-11-12</lastmod>
+    <loc>http://homesteadgaming.com/images/icon-120.png</loc>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://homesteadgaming.com/images/bigflower.jpg</loc>
-    <lastmod>2013-11-12</lastmod>
+    <loc>http://homesteadgaming.com/images/icon@2x.png</loc>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://homesteadgaming.com/images/leaves.jpg</loc>
-    <lastmod>2013-11-12</lastmod>
+    <loc>http://homesteadgaming.com/images/titlescreenwithglows-u747.jpg</loc>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/index.html</loc>
-    <lastmod>2013-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://homesteadgaming.com/games.html</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://homesteadgaming.com/news.html</loc>
-    <lastmod>2013-11-12</lastmod>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://homesteadgaming.com/blank.html</loc>
-    <lastmod>2013-11-12</lastmod>
+    <loc>http://homesteadgaming.com/games------------------.html</loc>
+    <lastmod>2013-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://homesteadgaming.com/blog.html</loc>
+    <lastmod>2013-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://homesteadgaming.com/number-rhumbus.html</loc>
+    <lastmod>2013-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://homesteadgaming.com/gator-chomp.html</loc>
+    <lastmod>2013-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
